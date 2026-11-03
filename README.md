@@ -1,5 +1,5 @@
 # Make it a Quote
-English | [日本語](READBE-ja.md)
+English | [日本語](README-ja.md)
 
 You can generate images in the style of [Make it a Quote](https://miq.moe).
 ![Demo image](./image/demo.png)
